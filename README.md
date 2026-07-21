@@ -7,6 +7,10 @@ A simple command-line calculator built using Python. This project performs basic
 - ➖ Subtraction 
 - ✖️ Multiplication
 - ➗ Division
+- Modulus '%'
+- Power '**'
+- Square Root 'sqrt()'
+- Trigonometric: Sine, Cosine, Tangent
 - Handles invalid inputs with error messages
 - Easy to run from terminal
 
